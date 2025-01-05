@@ -1,3 +1,5 @@
+YOUTUBE LINK : https://youtu.be/WdngsJ4nlP0
+
 >> SINGLE QUERY LIST :
 - INSERT
 - UPDATE
